@@ -1,15 +1,15 @@
 <?php
 
-namespace Slpcode\WangDianTongSdk;
+namespace Wsk\WangDianTongSdk;
 
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;
-use Slpcode\WangDianTongSdk\Basic\Basic;
-use Slpcode\WangDianTongSdk\Goods\Goods;
-use Slpcode\WangDianTongSdk\Purchase\Purchase;
-use Slpcode\WangDianTongSdk\Refund\Refund;
-use Slpcode\WangDianTongSdk\Stock\Stock;
-use Slpcode\WangDianTongSdk\Trade\Trade;
+use Wsk\WangDianTongSdk\Basic\Basic;
+use Wsk\WangDianTongSdk\Goods\Goods;
+use Wsk\WangDianTongSdk\Purchase\Purchase;
+use Wsk\WangDianTongSdk\Refund\Refund;
+use Wsk\WangDianTongSdk\Stock\Stock;
+use Wsk\WangDianTongSdk\Trade\Trade;
 
 class ServiceProvider implements ServiceProviderInterface
 {

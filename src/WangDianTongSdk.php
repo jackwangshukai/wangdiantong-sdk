@@ -1,20 +1,20 @@
 <?php
 
-namespace Slpcode\WangDianTongSdk;
+namespace Wsk\WangDianTongSdk;
 
 
 use Hanson\Foundation\Foundation;
 
 /**
- * @property \Slpcode\WangDianTongSdk\Basic\Basic $basic
- * @property \Slpcode\WangDianTongSdk\Goods\Goods $goods
- * @property \Slpcode\WangDianTongSdk\Purchase\Purchase $purchase
- * @property \Slpcode\WangDianTongSdk\Refund\Refund $refund
- * @property \Slpcode\WangDianTongSdk\Stock\Stock $stock
- * @property \Slpcode\WangDianTongSdk\Trade\Trade $trade
+ * @property \Wsk\WangDianTongSdk\Basic\Basic $basic
+ * @property \Wsk\WangDianTongSdk\Goods\Goods $goods
+ * @property \Wsk\WangDianTongSdk\Purchase\Purchase $purchase
+ * @property \Wsk\WangDianTongSdk\Refund\Refund $refund
+ * @property \Wsk\WangDianTongSdk\Stock\Stock $stock
+ * @property \Wsk\WangDianTongSdk\Trade\Trade $trade
  *
  * Class WangDianTong
- * @package Slpcode\WangDianTongSdk
+ * @package Wsk\WangDianTongSdk
  */
 class WangDianTongSdk extends Foundation
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Slpcode\WangDianTongSdk\Exceptions;
+namespace Wsk\WangDianTongSdk\Exceptions;
 
 
 class WangDianTongException extends \Exception

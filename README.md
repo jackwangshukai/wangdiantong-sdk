@@ -15,7 +15,7 @@ $ composer require slpcode/wangdiantong-sdk -vvv
 ```php
 <?php
 
-use Slpcode\WangDianTongSdk\WangDianTongSdk;
+use Wsk\WangDianTongSdk\WangDianTongSdk;
 
 $config = [
     'appkey' => 'xxxx',

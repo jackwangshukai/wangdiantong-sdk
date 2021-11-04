@@ -1,11 +1,11 @@
 {
-    "name": "slpcode/wangdiantong-sdk",
-    "description": "旺店通SDK",
+    "name": "wsk/wangdiantong-sdk",
+    "description": "PHP旺店通SDK",
     "license": "MIT",
     "authors": [
         {
-            "name": "slpcode",
-            "email": "1370808424@qq.com"
+            "name": "wsk",
+            "email": "394991044@qq.com"
         }
     ],
     "require": {
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Slpcode\\WangDianTongSdk\\": "src"
+            "Wsk\\WangDianTongSdk\\": "src"
         }
     }
 }

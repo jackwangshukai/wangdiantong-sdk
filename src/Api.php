@@ -1,6 +1,6 @@
 <?php
 
-namespace Slpcode\WangDianTongSdk;
+namespace Wsk\WangDianTongSdk;
 
 
 use Hanson\Foundation\AbstractAPI;

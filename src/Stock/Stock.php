@@ -1,15 +1,15 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: slpcode
- * Date: 2019/7/1
+ * User: Wsk
+ * Date: 2021/11/4
  * Time: 11:59
  */
 
-namespace Slpcode\WangDianTongSdk\Stock;
+namespace Wsk\WangDianTongSdk\Stock;
 
 
-use Slpcode\WangDianTongSdk\Api;
+use Wsk\WangDianTongSdk\Api;
 
 class Stock extends Api
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace Slpcode\WangDianTongSdk\Trade;
+namespace Wsk\WangDianTongSdk\Trade;
 
 
-use Slpcode\WangDianTongSdk\Api;
+use Wsk\WangDianTongSdk\Api;
 
 class Trade extends Api
 {

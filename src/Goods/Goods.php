@@ -1,9 +1,9 @@
 <?php
 
-namespace Slpcode\WangDianTongSdk\Goods;
+namespace Wsk\WangDianTongSdk\Goods;
 
 
-use Slpcode\WangDianTongSdk\Api;
+use Wsk\WangDianTongSdk\Api;
 
 class Goods extends Api
 {
