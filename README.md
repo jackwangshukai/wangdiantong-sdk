@@ -1,4 +1,4 @@
-<h1 align="center"> wangdiantong-sdk 旺店通SDK</h1>
+<h1 align="center"> wangdiantong-php-sdk 旺店通SDK</h1>
 
 <p align="center"> .</p>
 
