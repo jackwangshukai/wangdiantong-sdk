@@ -8,7 +8,7 @@
 ## 安装
 
 ```shell
-$ composer require slpcode/wangdiantong-sdk -vvv
+$ composer require wsk/wangdiantong-sdk
 ```
 
 ## 使用
